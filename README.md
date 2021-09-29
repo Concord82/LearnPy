@@ -22,7 +22,10 @@ https://pythonworld.ru/samouchitel-python
 * https://youtube.com/playlist?list=PLg5SS_4L6LYtHCActBzbuGVYlWpLYqXC6
 * https://youtube.com/playlist?list=PLg5SS_4L6LYt7Wmh8zBKjZ_ltaoDXSEmk
 
-
+## Тестировщик ##
+### Видео ###
+* https://youtube.com/playlist?list=PLRs8EELOYKc7DYIQixlV1s4EH5SR3TdNB
+* https://youtube.com/playlist?list=PLKbJd47Kcbju2Vhi-FL7AI14vItVmGYk-
 
 
 
